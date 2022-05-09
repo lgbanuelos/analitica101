@@ -2,6 +2,6 @@
 print("Hola a todos!")
 
 # %%
-print("Adios")
+print("Adios a todos")
 
 # %%
